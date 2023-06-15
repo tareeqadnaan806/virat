@@ -1,0 +1,56 @@
+div{
+    width: 757px;
+    height: 700px;
+    border: 2px solid brown;
+    background-image: url(./beans.webp);
+    background-repeat: round;
+    margin-top: 60px;
+    margin-left: 150px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#menu{
+    height: 85%;
+    border: 2px solid burlywood;
+    background-color: burlywood;
+    background-image: url(./images.png);
+    width: 60%;
+}
+
+
+.heading{
+    text-align: center;
+}
+
+.line{
+    border:3px solid brown;
+    width: 90%;
+}
+
+.items{
+    text-align: left;
+    display:inline-block;
+    width: 45%;
+    margin: 0em;
+    margin-left: 20px;
+}
+
+.price{
+    text-align: end;
+    display: inline-block;
+    width: 45%;
+    margin: 0em;
+    margin-right: 20px;
+}
+
+h1, h2{
+    margin-bottom: 0%;
+}
+
+.img{
+    margin-top: 0%;
+}
